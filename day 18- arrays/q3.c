@@ -23,8 +23,8 @@ int main(){
             
             max2=arr[i];
         }                            
-        printf("\nThe second largest element is  : %d", max2);
     } 
+    printf("\nThe second largest element is  : %d", max2);
 
 
 
